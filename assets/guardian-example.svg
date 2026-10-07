@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Anti-Haram Guardian transformation example</title>
+  <desc id="desc">A three-step diagram showing a risky request transformed into an evidence-aware lawful alternative.</desc>
+  <rect width="1200" height="630" rx="40" fill="#F6F3EC"/>
+  <text x="72" y="86" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Preserve the goal. Change the means.</text>
+  <text x="72" y="126" fill="#5A554D" font-family="Arial, Helvetica, sans-serif" font-size="22">A strict default with an honest evidence trail.</text>
+
+  <rect x="72" y="178" width="300" height="330" rx="28" fill="#FFFFFF" stroke="#D5D0C6" stroke-width="2"/>
+  <circle cx="116" cy="222" r="18" fill="#B42318"/>
+  <text x="148" y="230" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">REQUEST</text>
+  <text x="108" y="292" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">“Smiling athlete</text>
+  <text x="108" y="327" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">looking at camera</text>
+  <text x="108" y="362" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">for a fitness ad.”</text>
+  <text x="108" y="430" fill="#706A60" font-family="Arial, Helvetica, sans-serif" font-size="19">Goal: trust + discipline</text>
+  <text x="108" y="462" fill="#706A60" font-family="Arial, Helvetica, sans-serif" font-size="19">Risk: detailed portrait</text>
+
+  <path d="M397 343 H435" stroke="#111111" stroke-width="5" stroke-linecap="round"/>
+  <path d="M424 330 L439 343 L424 356" fill="none" stroke="#111111" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="460" y="178" width="280" height="330" rx="28" fill="#111111"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" fill="#F6F3EC" d="M600 216 L655 228 A15 15 0 0 1 670 243 L670 302 C670 344 635 373 600 382 C565 373 530 344 530 302 L530 243 A15 15 0 0 1 545 228 Z M600 252 L612 270 L629 264 L623 282 L641 294 L623 306 L629 324 L612 318 L600 336 L588 318 L571 324 L577 306 L559 294 L577 282 L571 264 L588 270 Z"/>
+  <text x="600" y="423" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">CHECK</text>
+  <text x="600" y="456" text-anchor="middle" fill="#CEC9BF" font-family="Arial, Helvetica, sans-serif" font-size="18">DISPUTED → ADJUST</text>
+
+  <path d="M765 343 H803" stroke="#111111" stroke-width="5" stroke-linecap="round"/>
+  <path d="M792 330 L807 343 L792 356" fill="none" stroke="#111111" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="828" y="178" width="300" height="330" rx="28" fill="#E6F4EA" stroke="#A8D5B5" stroke-width="2"/>
+  <circle cx="872" cy="222" r="18" fill="#207A3D"/>
+  <path d="M863 222 L870 229 L882 214" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="904" y="230" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">OUTPUT</text>
+  <text x="864" y="292" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Athlete from behind,</text>
+  <text x="864" y="327" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">tying training shoes;</text>
+  <text x="864" y="362" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">product in focus.</text>
+  <text x="864" y="430" fill="#496451" font-family="Arial, Helvetica, sans-serif" font-size="19">Same audience and message</text>
+  <text x="864" y="462" fill="#496451" font-family="Arial, Helvetica, sans-serif" font-size="19">Cautious production route</text>
+
+  <text x="72" y="572" fill="#5A554D" font-family="Arial, Helvetica, sans-serif" font-size="18">Anti-Haram Guardian · Evidence-first Islamic compliance guardrails</text>
+</svg>

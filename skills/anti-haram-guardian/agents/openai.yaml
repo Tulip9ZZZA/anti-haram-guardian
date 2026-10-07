@@ -1,0 +1,15 @@
+interface:
+  display_name: Anti-Haram Guardian
+  short_description: Evidence-first Islamic compliance guardrails
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+  brand_color: '#111111'
+  default_prompt: Use $anti-haram-guardian to screen this task, cite the evidence,
+    and preserve the goal with a lawful alternative.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

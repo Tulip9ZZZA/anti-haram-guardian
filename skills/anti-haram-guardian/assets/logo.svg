@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Anti-Haram Guardian</title>
+  <desc id="desc">A shield containing a geometric eight-point guardian mark.</desc>
+  <style>
+    .mark { fill: #111111; }
+    @media (prefers-color-scheme: dark) { .mark { fill: #FFFFFF; } }
+  </style>
+  <path class="mark" fill-rule="evenodd" clip-rule="evenodd" d="M 128 28 L 194 42 A 18 18 0 0 1 212 60 L 212 130 C 212 180, 170 215, 128 226 C 86 215, 44 180, 44 130 L 44 60 A 18 18 0 0 1 62 42 Z M 128 72 L 142.64 93.68 L 163.36 86.64 L 156.32 107.36 L 178 122 L 156.32 136.64 L 163.36 157.36 L 142.64 150.32 L 128 172 L 113.36 150.32 L 92.64 157.36 L 99.68 136.64 L 78 122 L 99.68 107.36 L 92.64 86.64 L 113.36 93.68 Z M 128 104 L 133.27 111.8 L 140.73 109.27 L 138.2 116.73 L 146 122 L 138.2 127.27 L 140.73 134.73 L 133.27 132.2 L 128 140 L 122.73 132.2 L 115.27 134.73 L 117.8 127.27 L 110 122 L 117.8 116.73 L 115.27 109.27 L 122.73 111.8 Z"/>
+</svg>
