@@ -15,6 +15,8 @@ It is deliberately strict in production while honest about uncertainty: direct s
 
 ![Before-and-after example of the guardian workflow](assets/guardian-example.svg)
 
+> **Why this transformation matters:** **This skill applies a deliberately cautious visual default because we do not want creators or users to unknowingly fall into *tasweer*. Protecting people from that risk—while preserving the practical purpose of their work through faceless, rear-view, silhouette, or non-figurative alternatives—is one of Anti-Haram Guardian’s central purposes.**
+
 ## Why it is different
 
 - **Evidence before verdicts** — Qur'an, authentic Sunnah, then attributed scholarly application.
